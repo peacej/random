@@ -32,11 +32,7 @@ def sqrt_newton(x, epsilon=0.0001):
         res = (x + res*res) / (2 * res) # manually did algebra using newton's method
     return res
 
-print(sqrt_halving(.05))
-print(sqrt_newton(.05))
-print(sqrt_halving(1.5))
-print(sqrt_newton(1.5))
-print(sqrt_halving(53))
-print(sqrt_newton(53))
-
-
+for value in [0.05, 1.5, 53, 4450455]:
+    print(f"Calculating square root for {value}...")
+    print(sqrt_halving(value))
+    print(sqrt_newton(value))
