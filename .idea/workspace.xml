@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c71fcd63-7857-47b4-9dc4-b6111c323ed4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algo_exercises/sqrt_multiple_implementations.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo_exercises/sqrt_multiple_implementations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="35" />
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="699" />
-  </component>
+  <component name="JupyterTrust" id="3ef909d5-b435-4af0-b06a-9ec68461d189" />
   <component name="ProjectId" id="1ctQZHwLA7wZjocwLoMjWtHZCfO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -143,7 +137,11 @@
       <option name="presentableId" value="Default" />
       <updated>1482348647014</updated>
       <workItem from="1591345465071" duration="2650000" />
-      <workItem from="1591408675515" duration="351000" />
+      <workItem from="1591408675515" duration="1228000" />
+      <workItem from="1592224670852" duration="599000" />
+      <workItem from="1592437645041" duration="1496000" />
+      <workItem from="1593507623693" duration="531000" />
+      <workItem from="1593997262895" duration="491000" />
     </task>
     <servers />
   </component>
@@ -151,22 +149,22 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="381" key="GridCell.Tab.0.bottom" timestamp="1591348150833">
+    <state width="1638" height="381" key="GridCell.Tab.0.bottom" timestamp="1591782020712">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="1750" height="381" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1591348150833" />
-    <state width="1750" height="381" key="GridCell.Tab.0.center" timestamp="1591348150831">
+    <state width="1638" height="381" key="GridCell.Tab.0.bottom/0.23.1920.981@0.23.1920.981" timestamp="1591782020712" />
+    <state width="1638" height="381" key="GridCell.Tab.0.center" timestamp="1591782020711">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="1750" height="381" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1591348150831" />
-    <state width="1750" height="381" key="GridCell.Tab.0.left" timestamp="1591348150831">
+    <state width="1638" height="381" key="GridCell.Tab.0.center/0.23.1920.981@0.23.1920.981" timestamp="1591782020711" />
+    <state width="1638" height="381" key="GridCell.Tab.0.left" timestamp="1591782020711">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="1750" height="381" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1591348150831" />
-    <state width="1750" height="381" key="GridCell.Tab.0.right" timestamp="1591348150833">
+    <state width="1638" height="381" key="GridCell.Tab.0.left/0.23.1920.981@0.23.1920.981" timestamp="1591782020711" />
+    <state width="1638" height="381" key="GridCell.Tab.0.right" timestamp="1591782020712">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state width="1750" height="381" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1591348150833" />
+    <state width="1638" height="381" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1591782020712" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/random$sqrt.coverage" NAME="sqrt_multiple_implementations Coverage Results" MODIFIED="1591348122593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
