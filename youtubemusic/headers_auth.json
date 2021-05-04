@@ -1,0 +1,10 @@
+{
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.5",
+    "Content-Type": "application/json",
+    "Cookie": "__Secure-3PSID=7gfINGkJplfU4Me8jQb6omjfCqq5QvUBZXwDC2ApfYcVLKIGLK-oyJIW3tHst_KIBsXJjg.; __Secure-3PAPISID=XacIEkiMny8M-jr2/AShYOdykGZrf6An8K; VISITOR_INFO1_LIVE=RNKBABBaOhs; LOGIN_INFO=AFmmF2swRAIgXqKmd2iZRB87bpSEDzVo4u8fQvsaIhQ83Ar-5qZrkvkCIEzTC-oGRpSfEJu_G3eCgx5ECBRqKBvBkItSk0J4TF4L:QUQ3MjNmemFkbFVnbjB2bDkySDBCMnJiXzFhZzZOOGc1N1QtaVNkd0k2SWdoLVdWcm5SbTlaa1lhRnd2RER6RlpyWGlhZE9ncEM5LUY5SldaUjc0cnhncnRaZzdZaXY4UUl5T2k1VUJkT1ZWVy14dm01MHNMOGlVUjhrV2tJMEQ5NDAtUmEydGlidmJsYVVaQjByblotM19BS01LMFVRWVRB; YSC=9F5WnaBqzyk; _gcl_au=1.1.1790342042.1620108781; PREF=f6=80&tz=Asia.Tokyo&volume=100&library_tab_browse_id=FEmusic_liked_playlists; __Secure-3PSIDCC=AJi4QfGV-nI-MFQN4qN40lMr1XYqm_IEj0FqnC992CFr1VsFzEVIxpiipDFkKMVnxi9IZ-oOmg",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0",
+    "X-Goog-AuthUser": "0",
+    "X-Goog-Visitor-Id": "CgtWaTB2WWRDeEFUYyjhv-X8BQ%3D%3D",
+    "origin": "https://music.youtube.com"
+}
