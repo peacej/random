@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c71fcd63-7857-47b4-9dc4-b6111c323ed4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_list_of_tuples_to_r_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testrand2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testrandom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testtyping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +132,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -165,10 +172,5 @@
       <screen x="0" y="23" width="1920" height="981" />
     </state>
     <state width="1638" height="381" key="GridCell.Tab.0.right/0.23.1920.981@0.23.1920.981" timestamp="1591782020712" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/random$sqrt.coverage" NAME="sqrt_multiple_implementations Coverage Results" MODIFIED="1591348122593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/random$sqrt_multiple_implementations.coverage" NAME="sqrt_multiple_implementations Coverage Results" MODIFIED="1591408977375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/random$parse_kigyou.coverage" NAME="parse_kigyou Coverage Results" MODIFIED="1591345852900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
