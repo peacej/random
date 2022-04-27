@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c71fcd63-7857-47b4-9dc4-b6111c323ed4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/python_list_of_tuples_to_r_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testrand2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testrandom.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testtyping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp.py" beforeDir="false" />
-    </list>
+    <list default="true" id="c71fcd63-7857-47b4-9dc4-b6111c323ed4" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
